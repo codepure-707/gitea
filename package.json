@@ -18,7 +18,7 @@
     "ansi_up": "6.0.5",
     "asciinema-player": "3.9.0",
     "chart.js": "4.4.9",
-    "chartjs-adapter-dayjs-4": "1.0.4",
+    "chartjs-adapter-dayjs-4": "1.2.3",
     "chartjs-plugin-zoom": "2.2.0",
     "clippie": "4.1.6",
     "cropperjs": "1.6.2",
